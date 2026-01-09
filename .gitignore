@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (keep local)
+data/
+*.pkl
+
+# Outputs
+reports/figures/*.png
+reports/figures/*.jpg
+
+# OS
+.DS_Store
+Thumbs.db
